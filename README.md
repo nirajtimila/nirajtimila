@@ -20,7 +20,7 @@
   
 </p>
 <p>
-  <a href src="https://nirajtimila.com.np/">
+  <a href="https://nirajtimila.com.np/">
  <img alt="MySQL" src="https://img.shields.io/badge/Check%20my%20website-%2341BDF5.svg?style=for-the-badge" />
 </a>
  </p>
