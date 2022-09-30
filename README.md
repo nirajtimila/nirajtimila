@@ -19,5 +19,3 @@
     
   
 </p>
-
-![image](https://user-images.githubusercontent.com/8063725/193240649-427fdeb4-f4ef-47c7-8e64-ccd4fb231e8b.png)
